@@ -29,7 +29,7 @@ BMI Calculator was an app I developed for my first Android development steps. I 
 - Melhorar estilização do app
 
 ## Author
-Roque Buarque Junior (follow me on [LinkedIn](https://www.linkedin.com/in/marcus-sampaio-3b893824a/))
+Marcus Sampaio (follow me on [LinkedIn](https://www.linkedin.com/in/marcus-sampaio-3b893824a/))
 
 ## License
 ```
